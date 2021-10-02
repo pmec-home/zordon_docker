@@ -1,0 +1,3 @@
+[submodule "catkin_ws/src/zordon_description"]
+	path = catkin_ws/src/zordon_description
+	url = https://github.com/pmec-home/zordon-description
